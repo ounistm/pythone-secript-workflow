@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v3
       - name: Run a Python script
     #    run: python .github/workflows/example.py
-        run: python .github/workflows/ portscanner.py
+        run: python .github/workflows/portscanner.py
